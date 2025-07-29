@@ -1,0 +1,42 @@
+- Organize workers into groups that serve a common purpose
+- Typically represent how work is done and how the workforce is structured, can serve many other purposes and are used across the entire platform
+- Workers are tied to multiple independent organization types, each with a different purpose
+
+
+Eg: Kevin - Mfg, New york
+    Fernando - Mfg, Boston
+    Susan - HR, London
+    Delphine - Mfg, Paris
+    Anitha - HR, Chicago
+    Rashmi - Mfg, St Louis
+    Max - Mfg, Shanghai
+    Sandhya - HR, Delhi
+    Lewis - MFG, New York
+    Ravi - HR, India, Mumbai
+    Pooja - HR, Beijing
+
+  If we are grouping the above employees based on their function - 2 (1 for Mfg and 3 for HR)
+============================Supervisory Organization====================================================================
+  Mfg :
+  Kevin
+  Max
+  Lewis
+
+  HR: 
+  Susan
+  Anitha
+  Ravi
+===============================Region=====================================================================================
+  Asia              North America      EU and UK
+  Max                Kevin              Susan
+  Ravi               Anitha
+                     Lewis   
+=============================Location Hieracrchy============================================================================
+Asia                       North America          EU and UK
+India   China               Central  East          UK      Western Europe          Eastern Europe
+Mumbai
+Delhi
+
+
+
+Note : One worker can be a member of more than one types of org. eg: they will be part of supervisory org, region, location hierarchy etc...
