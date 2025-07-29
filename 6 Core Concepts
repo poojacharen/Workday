@@ -1,0 +1,11 @@
+1. Supervisory Organizations : Supervisory Organizations group employees into a mangement hieracrhy and are a required foundayion for Workday HCM
+
+2. Staffing Models : defines how jobs and positions are created and filled in a supervisory orgnization
+
+3. Job Profiles : defines generic features and characteristics of a job and of a position that is built off that profile
+
+4. Compensation : the umbrella term for compensation packages, grades, grade profiles and plans
+
+5. Security : security group, security policies, securable items
+
+6. Business Processes - a sequence of one or more tasks that accomplishes a desired business objective
