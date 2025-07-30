@@ -1,0 +1,14 @@
+Location :
+- Locations are used to track business assets and physical work spaces
+- Locations are also used to default data values, prompts, date formats and time zones
+- Each location is configured with one or more deliveres "usage" types
+   eg: Business Asset, Business Site, Campus, Par Location, Work Space, Payroll Tax etc...
+- Every position or job must be assigned to a location with "Business Site" usage
+- A location may roll up to another location
+
+Location Hierarchy :
+- A rollup of "included" locations
+- Often used to define geographical regions for regulatory reporting
+- Often used for security role assignments (not enabled directly on locations)
+- A location can belong to more than one location hierarchy but only once within a individual location hierarchy
+- Workers are dynamically included as members of a location hierarchy based on the location their location assignment
