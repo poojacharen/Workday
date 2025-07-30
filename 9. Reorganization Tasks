@@ -1,0 +1,12 @@
+-- A Reorganization Event enables :
+  - Grouping organization activities with a common effective date into one event for viewing and reporting purposes
+
+-- The following activities use a Reorganization Event :
+  - Create a new organization (except for Matrix Org)
+  - Assign Included Organizations (eg: Region or Location in a hierarchy)
+  - Assign workers to a custom organization
+  - Move retirees
+
+-- Other organization maintenance activities require an effective date Vs. a reorganization event and cannot be reported as part of the reorganization
+
+-- Change Organization Assignments process changes organizations for workers in a supervisory organization on the same date but is not reorganization event 
