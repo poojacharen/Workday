@@ -1,0 +1,7 @@
+1. Staffing Assignments : Workers are assigned to organizations during staffing events or on an ad-hoc basis 
+
+2. Organization Hierarchies : Organizations can be combined into hierarchies to reperesent how organizations roll up to one another
+
+3. Role Assignments : Workers are assigned to organization roles, which are tied to security access
+
+4. Financial and Payroll Worktags : Organization assignments are defaulted on transactions and used for reporting purposes
