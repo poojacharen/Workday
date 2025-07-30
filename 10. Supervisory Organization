@@ -1,0 +1,10 @@
+Supervisory Organization is a fundamental organization type withing Workday HCM
+
+- Are required and critically important to HCM - all workers are hired into a Supervisory Org
+- Group Workers into a management hierarchy to specify - who reports to whom
+- Supervisory Organizations "report" to one another to form the Supervisory Org Hieracrchy
+- Each Supervisory Org has one and only one superior (parent) organization
+- Provide the context for staffing actions
+- Each worker is a "member" of a Supervisory Org
+- A manager (role) is "assigned" to a Supervisory Org or may be inherited from a superior org
+- A manager is "NOT a member" of the orgs they manage
