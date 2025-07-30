@@ -1,0 +1,37 @@
+🔷 What is an Org Chart in Workday?
+An Org Chart (Organizational Chart) in Workday visually represents the hierarchical structure of an organization. 
+
+It shows:
+Who reports to whom (reporting relationships)
+- Position titles and roles
+- Open positions
+- Management levels
+- Departments or teams
+ -- It helps HR and managers:
+  - Understand team structures
+  - Plan workforce changes
+  - View vacant positions
+  - Navigate the organization
+
+🔷 What is a Report in Workday?
+A Report in Workday is a real-time view of data related to people, processes, or organizational structures. Workday allows users to:
+
+- Create standard/custom reports
+- Filter and export data
+- Automate reporting tasks
+- Use them for analytics or auditing
+- Example: A report on all members of a management group, open positions, or compensation trends.
+
+🔹 Assigned
+- Definition: Directly given or set by an admin or user.
+- Example: You manually assign the "HR Partner" role to Priya for the Finance department.
+- Effect: The user has access or responsibility only because it was explicitly assigned to them.
+
+🔹 Inherited
+- Definition: Automatically passed down from a higher level (like a parent organization or structure).
+- Example: If the Finance org has an HR Partner role assigned at the top level, users in sub-orgs like "Accounts Payable" may inherit that role.
+- Effect: The user has access/role because it's flowing down from a parent org or group — not directly assigned.
+
+
+
+
