@@ -1,0 +1,20 @@
+Company :
+- Legal Entity, usually one company per tax ID
+- Used for finanacial reports and transactions
+- Payroll aggregates and reports by company
+- Can be defaulted from supervisory org
+- Finanacial Business Processes can be defined by company
+
+Company Hierarchies :
+- Represents how companies are rolled up(included) gierarchically for security and consolidated reporting
+- Not directly assigned to transactions or workers, derived based on company assignment
+
+       Company Hieracrchy 1                        Company Hieracrchy 2             Company Hierarchy 3
+  Company                  Company                   
+Hieracrchy 1.1            Hierarchy 1.2               Company C                    Company B      Company D
+
+Company  Company             Company
+  A         B                   C
+
+
+Note : We can have one company which is part of more than one hierarchies. But within a hierarchy it can occur only once.
