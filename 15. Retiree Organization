@@ -1,0 +1,7 @@
+-- Used for grouping terminated workers who have retired
+
+-- Commonly used in benefit eligibility rules and conditional logic across the application
+
+-- Retiree Orgs can be hierarchical(roll-up to another Retiree Org)
+
+-- Retiree status is assigned to the worker using the Assign Retiree Status business process and a termination reason code indentified as a retiree reason
