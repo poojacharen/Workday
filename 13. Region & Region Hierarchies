@@ -1,0 +1,8 @@
+-- Optional - Reflect "area of responsibbility" rather than physical work location
+
+-- Regions can be rolled up into Region Hierarchies, often used to track geographic or sales region
+
+-- Often used to facilitate "financial" reporting, can be used to attribute cost or revenue separately from where it originated
+    - For eg: A worker in a US location who supports the UK office can have thier costs tagged to a UK region
+
+-- Generaly not used HCM-only purposes
