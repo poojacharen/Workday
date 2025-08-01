@@ -1,0 +1,23 @@
+-- Reflect dotted-line relationships to a second manager
+
+-- Are non-hierarchical and are not related to a supervisory org
+
+-- Workers are manually assigned to a matrix org
+
+-- Matrix relationships are reflected in org charts
+
+-- Can be used in eligibility rules and conditional logic across the application
+
+-- The Matrix Manager might be given security to :
+
+ - View a member's compensation, past jobs, skills and experience time off and leave and worker history
+
+ - Participate in processes related to the matrix members
+
+ With Matrix Org there are some tasks and reports that we can used to perform on Matrix Org
+ - Assign Matrix Member
+ - Assign Matrix Org
+ - Create Matrix Org
+ - Remove from Matrix Org
+ - Remove Matrix Member
+ 
