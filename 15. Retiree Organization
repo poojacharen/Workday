@@ -1,4 +1,4 @@
--- Used for grouping terminated workers who have retired
+-- Used for grouping terminated workers who have retired.
 
 -- Commonly used in benefit eligibility rules and conditional logic across the application
 
