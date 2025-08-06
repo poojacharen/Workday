@@ -1,0 +1,10 @@
+                                                                                      Position Management    Job Management
+Ability to report on open and filled positions                                               Yes                 No
+Assign default orgs(company, cost center etc..) to unfilled positions                        Yes                 No
+Allow compensation defaulting                                                                Yes                 Yes
+Track position history                                                                       Yes                 No
+Ability to move position with Change Job action                                              Yes                 Yes
+Individual positions can be moved as part of a reorganization                                Yes                 Yes
+Hiring limits enforced                                                                       Yes                 No
+Security stays with the position vs. the person                                              Yes                 Configurable
+Ability to use JOB Requistion functioanlity                                                  Yes                 Yes
