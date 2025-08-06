@@ -1,0 +1,12 @@
+-- Position Management :
+ - Most Control
+ - A position is created to be filled by one worker
+ - Position must be approved and available
+ - A "chair" can be empty or filled, must be available to bring someone in
+ - A "chair" has its own characteristics
+
+-- Job Management :
+ - Most flexibility/spped
+ - Hiring restrictions are set for the entire org
+ - No defined quantity for number of jobs available
+
