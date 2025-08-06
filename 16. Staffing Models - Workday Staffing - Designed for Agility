@@ -15,3 +15,9 @@
 -- Manage worker transitions and movement
 
 -- Admninister mass org changes
+
+-- Determines the process, approvals and restrictions for opening and closing positions
+
+-- Determines what happens to a position when it is vacated
+
+-- Is set for each Supervisory Organization
