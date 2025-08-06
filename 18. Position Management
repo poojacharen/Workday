@@ -1,0 +1,9 @@
+-- Provides the greatest control over hiring
+
+-- Gives you the ability to define separate hiring rules and restrictions for each position 
+ - You must specify the number of positions to fill
+ - An open, approved position is required before you can hire, promote, transfer, or demote workers
+ - Each position you create cn=an have its own definition and hiring restrictions
+
+-- Use it when :
+ - You need the ability to define each position narrowly based on the hiring location, job requirements and current needs and are subject to tight hiring controls
