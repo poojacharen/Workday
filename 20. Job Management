@@ -1,0 +1,13 @@
+-- Provides the least control over the definition of individual positions
+
+-- One set of hiring restrictions per org apply to all jobs in the supervisory rg
+
+-- Not required to set specific limits on the number of jobs to be filled
+
+-- Particularly useful for orgs that prefer to define broad job requirements and rely on staffing workflow and approvals to control the number of workers in a supervisory org
+
+-- With job management :
+ - Hiring is not limited to a predefined number of openings
+ - Do not need to create a separate, open position for each job you want to fill
+ - Any hiring restrictions you define app;y equally to all jobs in the org
+ - Moves approval for a new job to the hire process instead of position creation
